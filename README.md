@@ -1,2 +1,2 @@
 # node_api
-### sample bookstore built on node, mysql,express
+### sample bookstore REST API built on node, mysql,express
